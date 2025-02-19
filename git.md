@@ -4,7 +4,7 @@ Basically I learnt all these commands below and practiced it using this repo onl
 the entire history of this repo (as pushing them to my github would unnecessarily increase my commit count & clutter 
 my profile) and then extracted all those commands I learnt while doing these intermediate git lessons from The Odin Project 
 and gave it to ChatGpt for properly modifying it and making a git ready .txt file out of that with all those bullets,headings, 
-spacings,etc that provides a proper structure for the reader (as I don't know how to do that manually using *, #, - and all that). 
+spacings,etc that provides a proper structure for the reader (as I don't know how to do that).
 It was a hard time there too with juggling back and forth with Gpt(4o) to make it understand the purpose and format the file accordingly. 
 
 But yaa I guess it was all worth it with the kind of final result i got. 
